@@ -1,3 +1,4 @@
+//all is AI-ASSISTED to create a Flutter app called PantryPal for managing pantry inventory.
 import 'package:flutter/material.dart';
 
 void main() {
